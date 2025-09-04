@@ -1,3 +1,3 @@
-Rushiel Lakhani/
-Software Engineering/
+Rushiel Lakhani\
+Software Engineering\
 I'm a gymfreak. 
