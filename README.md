@@ -8,6 +8,6 @@ I'm Rushiel Lakhani. Studying Software Engineering at Fast (NUCES). I'm interest
 ## Bowlers
 - Rashid Khan
 * Mitchell Starc
-+ Jasprit Bumrah
-***These all are very good cricketers.***\ 
++ Jasprit Bumrah\
+***These all are very good cricketers.*** 
 
